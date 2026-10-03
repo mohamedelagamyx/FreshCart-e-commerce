@@ -1,0 +1,28 @@
+@font-face {
+  font-family: "FreshCart Exo";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/exo-400.ttf") format("truetype");
+}
+@font-face {
+  font-family: "FreshCart Exo";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/fonts/exo-500.ttf") format("truetype");
+}
+@font-face {
+  font-family: "FreshCart Exo";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("/fonts/exo-600.ttf") format("truetype");
+}
+@font-face {
+  font-family: "FreshCart Exo";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/fonts/exo-700.ttf") format("truetype");
+}

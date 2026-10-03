@@ -1,0 +1,15 @@
+.page {
+  font-family: "FreshCart Exo", sans-serif;
+}
+.page input[type="number"] {
+  appearance: textfield;
+}
+.page input[type="number"]::-webkit-inner-spin-button,
+.page input[type="number"]::-webkit-outer-spin-button {
+  appearance: none;
+  margin: 0;
+}
+.page button:focus-visible {
+  outline: 2px solid var(--color-primary-600);
+  outline-offset: 3px;
+}
