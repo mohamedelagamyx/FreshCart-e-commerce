@@ -20,7 +20,6 @@ NEXT_PUBLIC_API_BASE_URL=https://ecommerce.routemisr.com
 npm run dev
 ```
 
-Open http://localhost:3000.
 
 ## Production checks
 
